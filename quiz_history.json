@@ -1,6 +1,6 @@
 [
   {
-    "url": "https://www.youtube.com/watch?v=test123",
+    "url": "https://youtube.com/video1",
     "score": 6,
     "total": 10,
     "weak_topics": [
@@ -8,17 +8,45 @@
       "Cosine Similarity",
       "N-grams"
     ],
-    "date": "2026-04-24 01:13"
-  },
-  {
-    "url": "https://www.youtube.com/watch?v=test456",
-    "score": 3,
-    "total": 10,
-    "weak_topics": [
+    "all_topics": [
       "TF-IDF",
+      "Cosine Similarity",
+      "N-grams",
       "Stemming",
       "Bag of Words"
     ],
-    "date": "2026-04-24 01:14"
+    "date": "2026-04-24 01:20"
+  },
+  {
+    "url": "https://youtube.com/video2",
+    "score": 7,
+    "total": 10,
+    "weak_topics": [
+      "TF-IDF",
+      "N-grams"
+    ],
+    "all_topics": [
+      "TF-IDF",
+      "Cosine Similarity",
+      "N-grams",
+      "Stemming",
+      "Lemmatization"
+    ],
+    "date": "2026-04-24 01:20"
+  },
+  {
+    "url": "https://youtube.com/video3",
+    "score": 8,
+    "total": 10,
+    "weak_topics": [
+      "TF-IDF"
+    ],
+    "all_topics": [
+      "TF-IDF",
+      "Cosine Similarity",
+      "Bag of Words",
+      "Stemming"
+    ],
+    "date": "2026-04-24 01:20"
   }
 ]
