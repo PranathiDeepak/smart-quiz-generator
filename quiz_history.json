@@ -66,5 +66,26 @@
       "Machine Learning"
     ],
     "date": "2026-04-30 21:38"
+  },
+  {
+    "url": "\"https://www.youtube.com/watch?v=_gGRBWaRpAQ&list=PLZoTAELRMXVNNrHSKv36Lr3_156yCo6Nn&index=5\"",
+    "score": 2,
+    "total": 3,
+    "weak_topics": [
+      "Sentence Analysis",
+      "Word Frequency and Inverse Document Frequency"
+    ],
+    "all_topics": [
+      "Text Processing",
+      "Sentence Analysis",
+      "Text Preprocessing",
+      "Inverse Document Frequency",
+      "Word Frequency Calculation",
+      "Sparsity Problem",
+      "N-Grams",
+      "Stop Words",
+      "Bag of Words"
+    ],
+    "date": "2026-04-30 21:46"
   }
 ]
