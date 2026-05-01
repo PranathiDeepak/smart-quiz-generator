@@ -112,3 +112,7 @@ def get_progress():
 def get_weak_topics():
     tracker = QuizTracker()
     return {"weak_topics": tracker.get_weak_topics()}
+
+@app.get("/test")
+def test():
+    return {"status": "working"}
