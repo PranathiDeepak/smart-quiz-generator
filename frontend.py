@@ -1,7 +1,7 @@
 import streamlit as st
 import requests
 
-API_URL = "http://localhost:8000"
+API_URL = "https://smart-quiz-generator-815e.onrender.com"
 
 st.title("🎓 Smart Quiz Generator")
 st.sidebar.title("🎓 Smart Quiz Generator")
