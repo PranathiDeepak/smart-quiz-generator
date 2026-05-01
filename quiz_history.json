@@ -48,5 +48,23 @@
       "Stemming"
     ],
     "date": "2026-04-24 01:20"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=aircAruvnKk",
+    "score": 3,
+    "total": 3,
+    "weak_topics": [],
+    "all_topics": [
+      "Feature Detection and Recognition",
+      "Neural Networks",
+      "Hierarchical Abstraction in Image Recognition",
+      "Image Recognition",
+      "Neural Network Learning",
+      "Weights and Biases",
+      "Layered Neural Network Structure",
+      "Neural Network Architecture",
+      "Machine Learning"
+    ],
+    "date": "2026-04-30 21:38"
   }
 ]
